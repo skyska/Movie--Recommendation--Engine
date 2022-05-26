@@ -20,7 +20,9 @@ Please save the moviedict.pkl and similarity.pkl in venv file.
 
 Clone the github repo and run the app.py file by etering command:  streamlit run app.py
 
-Github link for zipped file in case of confusion in file locations
+Github link for zipped file in case of confusion in file locations:
+https://github.com/skyska/Movie-Recommendation-system.git
+
 
 
                     
