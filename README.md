@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
 
 
-Presentation link showing the algorithms used behind this app and screenshots for proper understanding of running the app:
+Presentation link that explains my weekly progress and the algorithms used behind this app and screenshots for proper understanding of running the app:
 https://drive.google.com/drive/folders/1sSMSH17yWdhff3Llqs6Aiz64XjmYi0tg?usp=sharing
 
 
