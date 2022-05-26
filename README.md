@@ -18,7 +18,9 @@ For proper running of the app, the system must have numpy, pandas, pickle, reque
 Please save the moviedict.pkl and similarity.pkl in venv file.
 
 
-clone the github repo and run the app.py file by etering command:  streamlit run app.py
+Clone the github repo and run the app.py file by etering command:  streamlit run app.py
+
+Github link for zipped file in case of confusion in file locations
 
 
                     
