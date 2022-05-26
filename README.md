@@ -13,8 +13,11 @@ https://drive.google.com/drive/folders/1Q5szDjhy8w4mr6p4C_RAzIEZKQRCkXMe?usp=sha
 
 
 Procedure to host in local server:
-For proper running of the app, the system must have numpy, pandas, requests, streamlit installed in it.
+For proper running of the app, the system must have numpy, pandas, pickle, requests, streamlit installed in it.
+
 Please save the moviedict.pkl and similarity.pkl in venv file.
+
+
 clone the github repo and run the app.py file by etering command:  streamlit run app.py
 
 
