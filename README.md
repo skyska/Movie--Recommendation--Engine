@@ -1,4 +1,4 @@
-# Recommendation
+# Movie Recommendation Engine
 
 This is a movie recommendation engine built using Python( alongwith its numpy and pandas library), streamlit, nltk library, scikit learn.
 
