@@ -1,6 +1,6 @@
 # Movie Recommendation Engine
 
-This is a movie recommendation engine built using Python( alongwith its numpy and pandas library), streamlit, nltk library, scikit learn.
+This is a movie recommendation engine built using Python( alongwith its numpy and pandas library), streamlit, nltk library, sklearn.
 
 This engine takes a input movie from user and returns the tilte and poster of five similar movies.
 
