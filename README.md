@@ -2,6 +2,8 @@
 
 This is a movie recommendation engine built using Python( alongwith its numpy and pandas library), streamlit, nltk library, scikit learn.
 
+This engine takes a input movie from user and returns the tilte and poster of five similar movies.
+
 Link of Data-set used:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
